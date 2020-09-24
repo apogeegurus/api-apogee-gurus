@@ -1,0 +1,11 @@
+.ck-editor__editable
+{
+    min-height: 150px !important;
+    max-height: 400px !important;
+}
+
+#shownImage{
+    max-width: 450px;
+    object-fit: contain;
+}
+
